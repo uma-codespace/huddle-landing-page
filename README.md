@@ -6,8 +6,8 @@ This project is a solution to the Huddle landing page challenge from Frontend Me
 
 ## Links
 
-- Live Site:
-- Repository:
+- Live Site: https://huddle-frontend-mentor-challenge.vercel.app
+- Repository: https://github.com/uma-codespace/huddle-landing-page
 - Challenge: https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
 
 ## Screenshot

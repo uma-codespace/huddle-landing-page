@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a solution to the Huddle landing page challenge from Frontend Mentor. The goal was to build a responsive page based on the provided design and ensure consistent layout behavior across different screen sizes.
+This project is a solution to the Huddle landing page challenge from Frontend Mentor. The goal was to build a responsive page based on the provided design and ensure consistent layout behavior across different screen sizes. The page emphasizes clean UI structure, semantic HTML, and modern CSS practices, providing a visually appealing & accessible introduction to the product.
 
 ## Links
 
